@@ -29,6 +29,9 @@ ordenarBubble($myList);
 echo "Lista ordenada";
 print_r($myList);
 
+
+
+
 /*Ejercicio 2
 Problema de Ordenar Lista con Merge Sort:
 Implementa una función que ordene una lista de palabras alfabéticamente
@@ -95,6 +98,10 @@ $listaOrdenada = mergeSort($myNewList);
 echo "Lista después del ordenamienot (alfabéticamente):\n";
 print_r($listaOrdenada);
 
+
+
+
+
 /*Ejercicio 3
 Problema de Ordenar Lista con Insertion Sort:
 Crea un script que ordene una lista de nombres en orden alfabético
@@ -123,4 +130,8 @@ print_r($myLastNameList);
 ordenarInsertionSort($myLastNameList);
 echo "Lista después ordenar(Orden alfabetico):\n";
 print_r($myLastNameList);
+
+
+
+
 ?>
